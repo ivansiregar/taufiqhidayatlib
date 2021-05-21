@@ -1,0 +1,3 @@
+include ':taufiqhidayatlib'
+include ':app'
+rootProject.name = "p141e_Library"
